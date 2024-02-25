@@ -1,7 +1,7 @@
 0x07. Rotate 2D Matrix
 Algorithm
 Python
- By: Jesse Hedden, Software Engineer
+ By: Dike Chika, Software Engineer
  Weight: 1
  Project will start Nov 13, 2023 6:00 AM, must end by Nov 17, 2023 6:00 AM
  Checker was released at Nov 14, 2023 6:00 AM
@@ -51,3 +51,5 @@ Repo:
 GitHub repository: alx-interview
 Directory: 0x07-rotate_2d_matrix
 File: 0-rotate_2d_matrix.py
+
+by DIKE C.
