@@ -49,4 +49,4 @@ Repo:
 GitHub repository: alx-interview
 Directory: 0x09-island_perimeter
 File: 0-island_perimeter.py
-by dike
+by dike chika E.
